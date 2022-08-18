@@ -1,106 +1,106 @@
 .halaman-moveToLeft {
-	-webkit-animation: moveToLeft .6s ease both;
-	animation: moveToLeft .6s ease both;
+	-webkit-animation: moveToLeft .4s ease both;
+	animation: moveToLeft .4s ease both;
 }
 
 .halaman-moveFromLeft {
-	-webkit-animation: moveFromLeft .6s ease both;
-	animation: moveFromLeft .6s ease both;
+	-webkit-animation: moveFromLeft .4s ease both;
+	animation: moveFromLeft .4s ease both;
 }
 
 .halaman-moveToRight {
-	-webkit-animation: moveToRight .6s ease both;
-	animation: moveToRight .6s ease both;
+	-webkit-animation: moveToRight .4s ease both;
+	animation: moveToRight .4s ease both;
 }
 
 .halaman-moveFromRight {
-	-webkit-animation: moveFromRight .6s ease both;
-	animation: moveFromRight .6s ease both;
+	-webkit-animation: moveFromRight .4s ease both;
+	animation: moveFromRight .4s ease both;
 }
 
 .halaman-moveToTop {
-	-webkit-animation: moveToTop .6s ease both;
-	animation: moveToTop .6s ease both;
+	-webkit-animation: moveToTop .4s ease both;
+	animation: moveToTop .4s ease both;
 }
 
 .halaman-moveFromTop {
-	-webkit-animation: moveFromTop .6s ease both;
-	animation: moveFromTop .6s ease both;
+	-webkit-animation: moveFromTop .4s ease both;
+	animation: moveFromTop .4s ease both;
 }
 
 .halaman-moveToBottom {
-	-webkit-animation: moveToBottom .6s ease both;
-	animation: moveToBottom .6s ease both;
+	-webkit-animation: moveToBottom .4s ease both;
+	animation: moveToBottom .4s ease both;
 }
 
 .halaman-moveFromBottom {
-	-webkit-animation: moveFromBottom .6s ease both;
-	animation: moveFromBottom .6s ease both;
+	-webkit-animation: moveFromBottom .4s ease both;
+	animation: moveFromBottom .4s ease both;
 }
 
 
 .halaman-fade {
-	-webkit-animation: fade .7s ease both;
-	animation: fade .7s ease both;
+	-webkit-animation: fade .3s ease both;
+	animation: fade .3s ease both;
 }
 
 .halaman-moveToLeftFade {
-	-webkit-animation: moveToLeftFade .7s ease both;
-	animation: moveToLeftFade .7s ease both;
+	-webkit-animation: moveToLeftFade .3s ease both;
+	animation: moveToLeftFade .3s ease both;
 }
 
 .halaman-moveFromLeftFade {
-	-webkit-animation: moveFromLeftFade .7s ease both;
-	animation: moveFromLeftFade .7s ease both;
+	-webkit-animation: moveFromLeftFade .3s ease both;
+	animation: moveFromLeftFade .3s ease both;
 }
 
 .halaman-moveToRightFade {
-	-webkit-animation: moveToRightFade .7s ease both;
-	animation: moveToRightFade .7s ease both;
+	-webkit-animation: moveToRightFade .3s ease both;
+	animation: moveToRightFade .3s ease both;
 }
 
 .halaman-moveFromRightFade {
-	-webkit-animation: moveFromRightFade .7s ease both;
-	animation: moveFromRightFade .7s ease both;
+	-webkit-animation: moveFromRightFade .3s ease both;
+	animation: moveFromRightFade .3s ease both;
 }
 
 .halaman-moveToTopFade {
-	-webkit-animation: moveToTopFade .7s ease both;
-	animation: moveToTopFade .7s ease both;
+	-webkit-animation: moveToTopFade .3s ease both;
+	animation: moveToTopFade .3s ease both;
 }
 
 .halaman-moveFromTopFade {
-	-webkit-animation: moveFromTopFade .7s ease both;
-	animation: moveFromTopFade .7s ease both;
+	-webkit-animation: moveFromTopFade .3s ease both;
+	animation: moveFromTopFade .3s ease both;
 }
 
 .halaman-moveToBottomFade {
-	-webkit-animation: moveToBottomFade .7s ease both;
-	animation: moveToBottomFade .7s ease both;
+	-webkit-animation: moveToBottomFade .3s ease both;
+	animation: moveToBottomFade .3s ease both;
 }
 
 .halaman-moveFromBottomFade {
-	-webkit-animation: moveFromBottomFade .7s ease both;
-	animation: moveFromBottomFade .7s ease both;
+	-webkit-animation: moveFromBottomFade .3s ease both;
+	animation: moveFromBottomFade .3s ease both;
 }
 
 
 
 .halaman-moveToLeftEasing {
-	-webkit-animation: moveToLeft .7s ease-in-out both;
-	animation: moveToLeft .7s ease-in-out both;
+	-webkit-animation: moveToLeft .3s ease-in-out both;
+	animation: moveToLeft .3s ease-in-out both;
 }
 .halaman-moveToRightEasing {
-	-webkit-animation: moveToRight .7s ease-in-out both;
-	animation: moveToRight .7s ease-in-out both;
+	-webkit-animation: moveToRight .3s ease-in-out both;
+	animation: moveToRight .3s ease-in-out both;
 }
 .halaman-moveToTopEasing {
-	-webkit-animation: moveToTop .7s ease-in-out both;
-	animation: moveToTop .7s ease-in-out both;
+	-webkit-animation: moveToTop .3s ease-in-out both;
+	animation: moveToTop .3s ease-in-out both;
 }
 .halaman-moveToBottomEasing {
-	-webkit-animation: moveToBottom .7s ease-in-out both;
-	animation: moveToBottom .7s ease-in-out both;
+	-webkit-animation: moveToBottom .3s ease-in-out both;
+	animation: moveToBottom .3s ease-in-out both;
 }
 
 
@@ -251,13 +251,13 @@
 
 
 .halaman-scaleDown {
-	-webkit-animation: scaleDown .7s ease both;
-	animation: scaleDown .7s ease both;
+	-webkit-animation: scaleDown .3s ease both;
+	animation: scaleDown .3s ease both;
 }
 
 .halaman-scaleUp {
-	-webkit-animation: scaleUp .7s ease both;
-	animation: scaleUp .7s ease both;
+	-webkit-animation: scaleUp .3s ease both;
+	animation: scaleUp .3s ease both;
 }
 
 .halaman-scaleUpDown {
@@ -337,26 +337,26 @@
 .halaman-rotateRightSideFirst {
 	-webkit-transform-origin: 0% 50%;
 	transform-origin: 0% 50%;
-	-webkit-animation: rotateRightSideFirst .8s both ease-in;
-	animation: rotateRightSideFirst .8s both ease-in;
+	-webkit-animation: rotateRightSideFirst .5s both ease-in;
+	animation: rotateRightSideFirst .5s both ease-in;
 }
 .halaman-rotateLeftSideFirst {
 	-webkit-transform-origin: 100% 50%;
 	transform-origin: 100% 50%;
-	-webkit-animation: rotateLeftSideFirst .8s both ease-in;
-	animation: rotateLeftSideFirst .8s both ease-in;
+	-webkit-animation: rotateLeftSideFirst .5s both ease-in;
+	animation: rotateLeftSideFirst .5s both ease-in;
 }
 .halaman-rotateTopSideFirst {
 	-webkit-transform-origin: 50% 100%;
 	transform-origin: 50% 100%;
-	-webkit-animation: rotateTopSideFirst .8s both ease-in;
-	animation: rotateTopSideFirst .8s both ease-in;
+	-webkit-animation: rotateTopSideFirst .5s both ease-in;
+	animation: rotateTopSideFirst .5s both ease-in;
 }
 .halaman-rotateBottomSideFirst {
 	-webkit-transform-origin: 50% 0%;
 	transform-origin: 50% 0%;
-	-webkit-animation: rotateBottomSideFirst .8s both ease-in;
-	animation: rotateBottomSideFirst .8s both ease-in;
+	-webkit-animation: rotateBottomSideFirst .5s both ease-in;
+	animation: rotateBottomSideFirst .5s both ease-in;
 }
 
 
@@ -437,26 +437,26 @@
 .halaman-rotatePushLeft {
 	-webkit-transform-origin: 0% 50%;
 	transform-origin: 0% 50%;
-	-webkit-animation: rotatePushLeft .8s both ease;
-	animation: rotatePushLeft .8s both ease;
+	-webkit-animation: rotatePushLeft .5s both ease;
+	animation: rotatePushLeft .5s both ease;
 }
 .halaman-rotatePushRight {
 	-webkit-transform-origin: 100% 50%;
 	transform-origin: 100% 50%;
-	-webkit-animation: rotatePushRight .8s both ease;
-	animation: rotatePushRight .8s both ease;
+	-webkit-animation: rotatePushRight .5s both ease;
+	animation: rotatePushRight .5s both ease;
 }
 .halaman-rotatePushTop {
 	-webkit-transform-origin: 50% 0%;
 	transform-origin: 50% 0%;
-	-webkit-animation: rotatePushTop .8s both ease;
-	animation: rotatePushTop .8s both ease;
+	-webkit-animation: rotatePushTop .5s both ease;
+	animation: rotatePushTop .5s both ease;
 }
 .halaman-rotatePushBottom {
 	-webkit-transform-origin: 50% 100%;
 	transform-origin: 50% 100%;
-	-webkit-animation: rotatePushBottom .8s both ease;
-	animation: rotatePushBottom .8s both ease;
+	-webkit-animation: rotatePushBottom .5s both ease;
+	animation: rotatePushBottom .5s both ease;
 }
 
 
@@ -489,202 +489,202 @@
 .halaman-rotateFoldRight {
 	-webkit-transform-origin: 0% 50%;
 	transform-origin: 0% 50%;
-	-webkit-animation: rotateFoldRight .7s both ease;
-	animation: rotateFoldRight .7s both ease;
+	-webkit-animation: rotateFoldRight .3s both ease;
+	animation: rotateFoldRight .3s both ease;
 }
 .halaman-rotateFoldLeft {
 	-webkit-transform-origin: 100% 50%;
 	transform-origin: 100% 50%;
-	-webkit-animation: rotateFoldLeft .7s both ease;
-	animation: rotateFoldLeft .7s both ease;
+	-webkit-animation: rotateFoldLeft .3s both ease;
+	animation: rotateFoldLeft .3s both ease;
 }
 .halaman-rotateFoldTop {
 	-webkit-transform-origin: 50% 100%;
 	transform-origin: 50% 100%;
-	-webkit-animation: rotateFoldTop .7s both ease;
-	animation: rotateFoldTop .7s both ease;
+	-webkit-animation: rotateFoldTop .3s both ease;
+	animation: rotateFoldTop .3s both ease;
 }
 .halaman-rotateFoldBottom {
 	-webkit-transform-origin: 50% 0%;
 	transform-origin: 50% 0%;
-	-webkit-animation: rotateFoldBottom .7s both ease;
-	animation: rotateFoldBottom .7s both ease;
+	-webkit-animation: rotateFoldBottom .3s both ease;
+	animation: rotateFoldBottom .3s both ease;
 }
 
 
 .halaman-rotateUnfoldLeft {
 	-webkit-transform-origin: 100% 50%;
 	transform-origin: 100% 50%;
-	-webkit-animation: rotateUnfoldLeft .7s both ease;
-	animation: rotateUnfoldLeft .7s both ease;
+	-webkit-animation: rotateUnfoldLeft .3s both ease;
+	animation: rotateUnfoldLeft .3s both ease;
 }
 .halaman-rotateUnfoldRight {
 	-webkit-transform-origin: 0% 50%;
 	transform-origin: 0% 50%;
-	-webkit-animation: rotateUnfoldRight .7s both ease;
-	animation: rotateUnfoldRight .7s both ease;
+	-webkit-animation: rotateUnfoldRight .3s both ease;
+	animation: rotateUnfoldRight .3s both ease;
 }
 .halaman-rotateUnfoldTop {
 	-webkit-transform-origin: 50% 100%;
 	transform-origin: 50% 100%;
-	-webkit-animation: rotateUnfoldTop .7s both ease;
-	animation: rotateUnfoldTop .7s both ease;
+	-webkit-animation: rotateUnfoldTop .3s both ease;
+	animation: rotateUnfoldTop .3s both ease;
 }
 .halaman-rotateUnfoldBottom {
 	-webkit-transform-origin: 50% 0%;
 	transform-origin: 50% 0%;
-	-webkit-animation: rotateUnfoldBottom .7s both ease;
-	animation: rotateUnfoldBottom .7s both ease;
+	-webkit-animation: rotateUnfoldBottom .3s both ease;
+	animation: rotateUnfoldBottom .3s both ease;
 }
 
 
 .halaman-rotateRoomLeftOut {
 	-webkit-transform-origin: 100% 50%;
 	transform-origin: 100% 50%;
-	-webkit-animation: rotateRoomLeftOut .8s both ease;
-	animation: rotateRoomLeftOut .8s both ease;
+	-webkit-animation: rotateRoomLeftOut .5s both ease;
+	animation: rotateRoomLeftOut .5s both ease;
 }
 .halaman-rotateRoomLeftIn {
 	-webkit-transform-origin: 0% 50%;
 	transform-origin: 0% 50%;
-	-webkit-animation: rotateRoomLeftIn .8s both ease;
-	animation: rotateRoomLeftIn .8s both ease;
+	-webkit-animation: rotateRoomLeftIn .5s both ease;
+	animation: rotateRoomLeftIn .5s both ease;
 }
 .halaman-rotateRoomRightOut {
 	-webkit-transform-origin: 0% 50%;
 	transform-origin: 0% 50%;
-	-webkit-animation: rotateRoomRightOut .8s both ease;
-	animation: rotateRoomRightOut .8s both ease;
+	-webkit-animation: rotateRoomRightOut .5s both ease;
+	animation: rotateRoomRightOut .5s both ease;
 }
 .halaman-rotateRoomRightIn {
 	-webkit-transform-origin: 100% 50%;
 	transform-origin: 100% 50%;
-	-webkit-animation: rotateRoomRightIn .8s both ease;
-	animation: rotateRoomRightIn .8s both ease;
+	-webkit-animation: rotateRoomRightIn .5s both ease;
+	animation: rotateRoomRightIn .5s both ease;
 }
 .halaman-rotateRoomTopOut {
 	-webkit-transform-origin: 50% 100%;
 	transform-origin: 50% 100%;
-	-webkit-animation: rotateRoomTopOut .8s both ease;
-	animation: rotateRoomTopOut .8s both ease;
+	-webkit-animation: rotateRoomTopOut .5s both ease;
+	animation: rotateRoomTopOut .5s both ease;
 }
 .halaman-rotateRoomTopIn {
 	-webkit-transform-origin: 50% 0%;
 	transform-origin: 50% 0%;
-	-webkit-animation: rotateRoomTopIn .8s both ease;
-	animation: rotateRoomTopIn .8s both ease;
+	-webkit-animation: rotateRoomTopIn .5s both ease;
+	animation: rotateRoomTopIn .5s both ease;
 }
 .halaman-rotateRoomBottomOut {
 	-webkit-transform-origin: 50% 0%;
 	transform-origin: 50% 0%;
-	-webkit-animation: rotateRoomBottomOut .8s both ease;
-	animation: rotateRoomBottomOut .8s both ease;
+	-webkit-animation: rotateRoomBottomOut .5s both ease;
+	animation: rotateRoomBottomOut .5s both ease;
 }
 .halaman-rotateRoomBottomIn {
 	-webkit-transform-origin: 50% 100%;
 	transform-origin: 50% 100%;
-	-webkit-animation: rotateRoomBottomIn .8s both ease;
-	animation: rotateRoomBottomIn .8s both ease;
+	-webkit-animation: rotateRoomBottomIn .5s both ease;
+	animation: rotateRoomBottomIn .5s both ease;
 }
 
 
 .halaman-rotateCubeLeftOut {
 	-webkit-transform-origin: 100% 50%;
 	transform-origin: 100% 50%;
-	-webkit-animation: rotateCubeLeftOut .6s both ease-in;
-	animation: rotateCubeLeftOut .6s both ease-in;
+	-webkit-animation: rotateCubeLeftOut .4s both ease-in;
+	animation: rotateCubeLeftOut .4s both ease-in;
 }
 .halaman-rotateCubeLeftIn {
 	-webkit-transform-origin: 0% 50%;
 	transform-origin: 0% 50%;
-	-webkit-animation: rotateCubeLeftIn .6s both ease-in;
-	animation: rotateCubeLeftIn .6s both ease-in;
+	-webkit-animation: rotateCubeLeftIn .4s both ease-in;
+	animation: rotateCubeLeftIn .4s both ease-in;
 }
 .halaman-rotateCubeRightOut {
 	-webkit-transform-origin: 0% 50%;
 	transform-origin: 0% 50%;
-	-webkit-animation: rotateCubeRightOut .6s both ease-in;
-	animation: rotateCubeRightOut .6s both ease-in;
+	-webkit-animation: rotateCubeRightOut .4s both ease-in;
+	animation: rotateCubeRightOut .4s both ease-in;
 }
 .halaman-rotateCubeRightIn {
 	-webkit-transform-origin: 100% 50%;
 	transform-origin: 100% 50%;
-	-webkit-animation: rotateCubeRightIn .6s both ease-in;
-	animation: rotateCubeRightIn .6s both ease-in;
+	-webkit-animation: rotateCubeRightIn .4s both ease-in;
+	animation: rotateCubeRightIn .4s both ease-in;
 }
 .halaman-rotateCubeTopOut {
 	-webkit-transform-origin: 50% 100%;
 	transform-origin: 50% 100%;
-	-webkit-animation: rotateCubeTopOut .6s both ease-in;
-	animation: rotateCubeTopOut .6s both ease-in;
+	-webkit-animation: rotateCubeTopOut .4s both ease-in;
+	animation: rotateCubeTopOut .4s both ease-in;
 }
 .halaman-rotateCubeTopIn {
 	-webkit-transform-origin: 50% 0%;
 	transform-origin: 50% 0%;
-	-webkit-animation: rotateCubeTopIn .6s both ease-in;
-	animation: rotateCubeTopIn .6s both ease-in;
+	-webkit-animation: rotateCubeTopIn .4s both ease-in;
+	animation: rotateCubeTopIn .4s both ease-in;
 }
 .halaman-rotateCubeBottomOut {
 	-webkit-transform-origin: 50% 0%;
 	transform-origin: 50% 0%;
-	-webkit-animation: rotateCubeBottomOut .6s both ease-in;
-	animation: rotateCubeBottomOut .6s both ease-in;
+	-webkit-animation: rotateCubeBottomOut .4s both ease-in;
+	animation: rotateCubeBottomOut .4s both ease-in;
 }
 .halaman-rotateCubeBottomIn {
 	-webkit-transform-origin: 50% 100%;
 	transform-origin: 50% 100%;
-	-webkit-animation: rotateCubeBottomIn .6s both ease-in;
-	animation: rotateCubeBottomIn .6s both ease-in;
+	-webkit-animation: rotateCubeBottomIn .4s both ease-in;
+	animation: rotateCubeBottomIn .4s both ease-in;
 }
 
 
 .halaman-rotateCarouselLeftOut {
 	-webkit-transform-origin: 100% 50%;
 	transform-origin: 100% 50%;
-	-webkit-animation: rotateCarouselLeftOut .8s both ease;
-	animation: rotateCarouselLeftOut .8s both ease;
+	-webkit-animation: rotateCarouselLeftOut .5s both ease;
+	animation: rotateCarouselLeftOut .5s both ease;
 }
 .halaman-rotateCarouselLeftIn {
 	-webkit-transform-origin: 0% 50%;
 	transform-origin: 0% 50%;
-	-webkit-animation: rotateCarouselLeftIn .8s both ease;
-	animation: rotateCarouselLeftIn .8s both ease;
+	-webkit-animation: rotateCarouselLeftIn .5s both ease;
+	animation: rotateCarouselLeftIn .5s both ease;
 }
 .halaman-rotateCarouselRightOut {
 	-webkit-transform-origin: 0% 50%;
 	transform-origin: 0% 50%;
-	-webkit-animation: rotateCarouselRightOut .8s both ease;
-	animation: rotateCarouselRightOut .8s both ease;
+	-webkit-animation: rotateCarouselRightOut .5s both ease;
+	animation: rotateCarouselRightOut .5s both ease;
 }
 .halaman-rotateCarouselRightIn {
 	-webkit-transform-origin: 100% 50%;
 	transform-origin: 100% 50%;
-	-webkit-animation: rotateCarouselRightIn .8s both ease;
-	animation: rotateCarouselRightIn .8s both ease;
+	-webkit-animation: rotateCarouselRightIn .5s both ease;
+	animation: rotateCarouselRightIn .5s both ease;
 }
 .halaman-rotateCarouselTopOut {
 	-webkit-transform-origin: 50% 100%;
 	transform-origin: 50% 100%;
-	-webkit-animation: rotateCarouselTopOut .8s both ease;
-	animation: rotateCarouselTopOut .8s both ease;
+	-webkit-animation: rotateCarouselTopOut .5s both ease;
+	animation: rotateCarouselTopOut .5s both ease;
 }
 .halaman-rotateCarouselTopIn {
 	-webkit-transform-origin: 50% 0%;
 	transform-origin: 50% 0%;
-	-webkit-animation: rotateCarouselTopIn .8s both ease;
-	animation: rotateCarouselTopIn .8s both ease;
+	-webkit-animation: rotateCarouselTopIn .5s both ease;
+	animation: rotateCarouselTopIn .5s both ease;
 }
 .halaman-rotateCarouselBottomOut {
 	-webkit-transform-origin: 50% 0%;
 	transform-origin: 50% 0%;
-	-webkit-animation: rotateCarouselBottomOut .8s both ease;
-	animation: rotateCarouselBottomOut .8s both ease;
+	-webkit-animation: rotateCarouselBottomOut .5s both ease;
+	animation: rotateCarouselBottomOut .5s both ease;
 }
 .halaman-rotateCarouselBottomIn {
 	-webkit-transform-origin: 50% 100%;
 	transform-origin: 50% 100%;
-	-webkit-animation: rotateCarouselBottomIn .8s both ease;
-	animation: rotateCarouselBottomIn .8s both ease;
+	-webkit-animation: rotateCarouselBottomIn .5s both ease;
+	animation: rotateCarouselBottomIn .5s both ease;
 }
 
 
@@ -1281,8 +1281,8 @@
 	animation-delay: .5s;
 }
 .halaman-delay700 {
-	-webkit-animation-delay: .7s;
-	animation-delay: .7s;
+	-webkit-animation-delay: .3s;
+	animation-delay: .3s;
 }
 .halaman-delay1000 {
 	-webkit-animation-delay: 1s;
